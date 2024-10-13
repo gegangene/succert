@@ -1,0 +1,75 @@
+body
+{
+	min-width: 670px;
+}
+
+.panel
+{
+	padding: 1vh 4vw;
+	min-width: 670px;
+}
+
+.leftPanel
+{
+	height: 17vh;
+}
+
+.leftPanel > h2
+{
+	display: none;
+}
+
+.rightPanel
+{
+	margin-top: 1vh;
+	height: 78vh;
+}
+
+.rightPanel>article
+{
+	overflow-y: auto;
+	max-height: 60vh;
+}
+
+figure
+{
+	display: none;
+}
+
+.floatMobile
+{
+	float: left;
+}
+
+.endFloatMobile
+{
+	clear: both;
+}
+
+.leftPanel>h1
+{
+	font-size: 4vh;
+	padding: 0;
+	margin: 5vh 0;
+	margin-left: 0;
+}
+
+.rightPanel>header>h2
+{
+	font-size: 2vh;
+}
+
+select
+{
+	font-size: xx-large;
+}
+
+option
+{
+	font-size: medium;
+}
+
+li
+{
+	font-size: xx-large;
+}
